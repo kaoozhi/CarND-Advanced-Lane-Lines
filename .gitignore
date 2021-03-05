@@ -1,0 +1,11 @@
+writeup.md
+.ipynb_checkpoints/
+.vscode/
+P2_bak.ipynb
+__pycache__/
+__temp__.mp4
+archives.txt
+set_git.sh
+.DS_Store
+example_writeup.pdf
+harder_challenge_video.mp4
